@@ -1,0 +1,33 @@
+{
+  "dataset": "jrc_mus-nacc-2",
+  "source": "s3://janelia-cosem-datasets/jrc_mus-nacc-2/jrc_mus-nacc-2.zarr",
+  "format": "OME-NGFF Zarr",
+  "multiscale_version": "0.4",
+  "num_resolution_levels": 9,
+  "full_resolution_shape_zyx": [
+    564,
+    2520,
+    2596
+  ],
+  "dtype": "int16",
+  "chunk_size_zyx": [
+    64,
+    64,
+    64
+  ],
+  "axes": [
+    "z",
+    "y",
+    "x"
+  ],
+  "units": [
+    "nanometer",
+    "nanometer",
+    "nanometer"
+  ],
+  "resolution_zyx_nm": [
+    2.96,
+    4.0,
+    4.0
+  ]
+}

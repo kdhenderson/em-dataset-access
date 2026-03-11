@@ -1,0 +1,13 @@
+# Large raw data files
+data/raw/
+
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
