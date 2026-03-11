@@ -1,9 +1,10 @@
 """
 Download script for the OpenOrganelle jrc_mus-nacc-2 dataset.
+Stored as OME-NGFF Zarr on AWS S3, int16, 2.96x4x4nm resolution.
 
 Usage:
-    python scripts/download_openorganelle.py           # download center crop
-    python scripts/download_openorganelle.py --full    # download full volume
+    python scripts/download_openorganelle.py           # center crop (564 x 1000 x 1000)
+    python scripts/download_openorganelle.py --full    # full volume (564 x 2520 x 2596)
 """
 
 import zarr

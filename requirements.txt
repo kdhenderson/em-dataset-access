@@ -9,3 +9,6 @@ numpy
 tifffile
 ncempy
 beautifulsoup4
+gcsfs
+cloud-volume
+tensorstore

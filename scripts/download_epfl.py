@@ -1,9 +1,10 @@
 """
 Download script for the EPFL CVLab hippocampus EM dataset.
+Full volume: 1065 x 1536 x 2048, uint8, 5x5x5nm resolution.
 
 Usage:
-    python scripts/download_epfl.py           # download center crop
-    python scripts/download_epfl.py --full    # download full volume
+    python scripts/download_epfl.py           # center crop (1000 x 1000 x 1000)
+    python scripts/download_epfl.py --full    # full volume (1065 x 1536 x 2048)
 """
 
 import argparse

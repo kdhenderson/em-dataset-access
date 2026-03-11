@@ -1,0 +1,32 @@
+{
+  "dataset": "EPFL CVLab Hippocampus",
+  "source": "https://documents.epfl.ch/groups/c/cv/cvlab-unit/www/data/%20ElectronMicroscopy_Hippocampus/volumedata.tif",
+  "format": "Multipage TIFF",
+  "full_resolution_shape_zyx": [
+    1065,
+    1536,
+    2048
+  ],
+  "resolution_zyx_nm": [
+    5.0,
+    5.0,
+    5.0
+  ],
+  "units": [
+    "nanometer",
+    "nanometer",
+    "nanometer"
+  ],
+  "axes": [
+    "z",
+    "y",
+    "x"
+  ],
+  "specimen": "CA1 hippocampus",
+  "physical_size_um": [
+    5.0,
+    5.0,
+    5.0
+  ],
+  "dtype": "uint8"
+}
