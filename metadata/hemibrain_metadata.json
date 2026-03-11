@@ -1,0 +1,33 @@
+{
+  "dataset": "Janelia FlyEM Hemibrain",
+  "source": "gs://neuroglancer-janelia-flyem-hemibrain/emdata/raw/jpeg",
+  "format": "Neuroglancer precomputed (sharded JPEG)",
+  "full_resolution_shape_xyz": [
+    34427,
+    39725,
+    41394
+  ],
+  "dtype": "uint8",
+  "axes": [
+    "x",
+    "y",
+    "z"
+  ],
+  "units": [
+    "nanometer",
+    "nanometer",
+    "nanometer"
+  ],
+  "resolution_xyz_nm": [
+    8,
+    8,
+    8
+  ],
+  "chunk_size_xyz": [
+    64,
+    64,
+    64
+  ],
+  "num_mip_levels": 9,
+  "encoding": "jpeg"
+}
