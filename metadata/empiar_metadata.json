@@ -1,0 +1,35 @@
+{
+  "dataset": "EMPIAR-11759",
+  "source": "https://ftp.ebi.ac.uk/empiar/world_availability/11759/data/",
+  "accession": "EMPIAR-11759",
+  "format": "DM3",
+  "experiment_type": "SBF-SEM",
+  "specimen": "Developing retina in zebrafish 55 hpf larval eye",
+  "full_resolution_shape_zyx": [
+    16,
+    5500,
+    5496
+  ],
+  "dtype": "uint8",
+  "axes": [
+    "z",
+    "y",
+    "x"
+  ],
+  "units": [
+    "nanometer",
+    "nanometer",
+    "nanometer"
+  ],
+  "resolution_zyx_nm": [
+    50.0,
+    7.998250424861908,
+    7.998250424861908
+  ],
+  "pixel_size_raw": [
+    0.007998250424861908,
+    0.007998250424861908
+  ],
+  "pixel_size_raw_unit": "\u00b5m",
+  "num_slices": 16
+}
