@@ -19,9 +19,9 @@
     "x"
   ],
   "units": [
-    "micrometer",
-    "micrometer",
-    "micrometer"
+    "nanometer",
+    "nanometer",
+    "nanometer"
   ],
   "resolution_zyx_um": [
     0.02,

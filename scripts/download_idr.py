@@ -80,7 +80,7 @@ def extract_metadata(arr, omero_meta):
         "full_resolution_shape_zyx": list(arr.shape),
         "dtype": str(arr.dtype),
         "axes": ["z", "y", "x"],
-        "units": ["micrometer", "micrometer", "micrometer"],
+        "units": ["nanometer", "nanometer", "nanometer"],
         # pixel_size from OMERO is in micrometers
         "resolution_zyx_um": [pixel_size["z"], pixel_size["y"], pixel_size["x"]],
         "resolution_zyx_nm": [
