@@ -1,0 +1,36 @@
+{
+  "dataset": "idr0086-miron-micrographs",
+  "image_id": 9846137,
+  "source_omero": "https://idr.openmicroscopy.org/webclient/img_detail/9846137/",
+  "source_ftp": "https://ftp.ebi.ac.uk/pub/databases/IDR/idr0086-miron-micrographs/20200610-ftp/experimentD/Miron_FIB-SEM/Miron_FIB-SEM_processed/Figure_S3B_FIB-SEM_U2OS_20x20x20nm_xy.tif",
+  "format": "TIFF",
+  "experiment_type": "FIB-SEM",
+  "specimen": "U2OS cells, chromatin",
+  "project": "idr0086-miron-micrographs/experimentD",
+  "full_resolution_shape_zyx": [
+    184,
+    775,
+    1121
+  ],
+  "dtype": "uint8",
+  "axes": [
+    "z",
+    "y",
+    "x"
+  ],
+  "units": [
+    "micrometer",
+    "micrometer",
+    "micrometer"
+  ],
+  "resolution_zyx_um": [
+    0.02,
+    0.02,
+    0.02
+  ],
+  "resolution_zyx_nm": [
+    20.0,
+    20.0,
+    20.0
+  ]
+}

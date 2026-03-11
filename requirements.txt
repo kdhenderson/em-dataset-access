@@ -7,3 +7,5 @@ requests
 tqdm
 numpy
 tifffile
+ncempy
+beautifulsoup4
